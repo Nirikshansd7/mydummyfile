@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "JurisMax",
+    "slug": "jurismax-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jurismax.mobile"
+    },
+    "android": {
+      "package": "com.jurismax.mobile"
+    }
+  }
+}
